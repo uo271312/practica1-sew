@@ -1,10 +1,11 @@
-	
+/*Especificidad 001*/	
 body {
   font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
   line-height: 1.8;
   color:black;
   background-color:  cornflowerblue;;
   }
+  /*Especificidad 001*/
   h1 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   background-color: white;
@@ -14,7 +15,7 @@ body {
   text-align: center;
   
   }
-	 
+	 /*Especificidad 001*/
     table, th, td {
         left:30px;
         right:40px;
@@ -25,10 +26,12 @@ body {
         border: 1px solid black;
         border-collapse: collapse;
       }
+      /*Especificidad 001*/
       th, td {
         padding: 5px;
        
       }
+      /*Especificidad 001*/
       th {
         text-align: left;
         
