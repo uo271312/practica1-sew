@@ -16,8 +16,8 @@
     left:30px;
     right:40px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color:cornflowerblue;
-    color: black;
+    background-color:white;
+    color: #154EB7;
     text-transform: uppercase;
     padding: 70px 20px;
     text-align: left;
@@ -35,13 +35,13 @@
         left:30px;
         right:40px;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-		background-color: cornflowerblue;
+		background-color: white;
         color:black;
         text-align: left; 
     }
     img{
       position:relative ;
-      bottom:300px;
+      bottom:400px;
       left:400px;
     }
 	footer{
