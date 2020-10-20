@@ -1,13 +1,13 @@
  body {
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color: #818181;
-    background-color: cornflowerblue;
+    color: black;
+    background-color:cornflowerblue;
     }
     h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color:cornflowerblue;
-    color: #fff;
+    background-color:white;
+    color: cornflowerblue;
     text-transform: uppercase;
     padding: 70px 20px;
     text-align: center;
@@ -17,7 +17,7 @@
     right:40px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:cornflowerblue;
-    color: #fff;
+    color: black;
     text-transform: uppercase;
     padding: 70px 20px;
     text-align: left;

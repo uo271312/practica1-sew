@@ -1,17 +1,18 @@
 body {
-    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
-    line-height: 1.8;
-    color: #818181;
-    background-color: cornflowerblue;
-    }
-    h1 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color:cornflowerblue;
-    color: #fff;
-    text-transform: uppercase;
-    padding: 70px 20px;
-    text-align: center;
-    }
+  font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+  line-height: 1.8;
+  color:black;
+  background-color:  cornflowerblue;;
+  }
+  h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: white;
+  color:  cornflowerblue;
+  text-transform: uppercase;
+  padding: 70px 20px;
+  text-align: center;
+  
+  }
 
  
   p {
